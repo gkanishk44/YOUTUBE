@@ -1,0 +1,1 @@
+sudo -H gedit /usr/share/applications/whatsapp-webapp.desktop
